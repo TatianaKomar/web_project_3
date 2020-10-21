@@ -1,0 +1,21 @@
+@import url(../vendor/normalize.css);
+@import url(../blocks/page/page.css);
+@import url(../blocks/header/header.css);
+@import url(../blocks/lead/lead.css);
+@import url(../blocks/intro/intro.css);
+@import url(../blocks/photo-grid/photo-grid.css);
+@import url(../blocks/place/place.css);
+@import url(../blocks/cover/cover.css);
+@import url(../blocks/footer/footer.css);
+
+@font-face {
+    font-family: 'Inter';
+    src: url(../fonts/Inter/Inter\ Web/Inter-Regular.woff);
+    font-weight: normal;
+  }
+  
+  @font-face {
+    font-family: 'Inter';
+    src: url(../fonts/Inter/Inter\ Web/Inter-Bold.woff2);
+    font-weight: bold;
+  }

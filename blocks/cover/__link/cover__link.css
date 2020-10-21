@@ -1,0 +1,17 @@
+.cover__link {
+    max-width: 1184px;
+    min-width: 288px;
+    text-decoration: none;
+    position: relative;
+    display: flex;
+    width: 100%;
+    background-image: linear-gradient(rgba(42, 44, 47, 0.3), rgba(42, 44, 47, 0.3)), url(../../../images/cover-route-66.jpg);
+    background-size: cover;
+    background-position: center;
+    color: #fff;
+}
+
+.cover__link:hover {
+    background-image: linear-gradient(rgba(42, 44, 47, 0.8), rgba(42, 44, 47, 0.8)), url(../../../images/cover-route-66.jpg);
+
+}
