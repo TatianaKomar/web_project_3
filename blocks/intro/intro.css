@@ -2,10 +2,11 @@
 @import url(../intro/__subtitle/intro__subtitle.css);
 @import url(../intro/__text/intro__text.css);
 @import url(../intro/__list/intro__list.css);
+@import url(../intro/__span-accent/intro__span-accent.css);
 
 .intro {
     max-width: 984px;
-    min-width: 288px;
+    box-sizing: content-box;
     width: 100%;
     margin: auto;
     margin-top: 92px;
@@ -21,8 +22,6 @@
     .intro {
         max-width: 720px;
         margin-top: 88px;
-        padding-left: 24px;
-        padding-right: 24px;
     }   
 }
 
@@ -30,7 +29,5 @@
     .intro {
         max-width: 288px;
         margin-top: 64px;
-        padding-left: 16px;
-        padding-right: 16px;
     }   
 }

@@ -1,20 +1,27 @@
-# Project 3: From Portland to Portland
+![Logo of the project](./images/project_logo.png)
 
-### Overview
-* Intro
-* Figma
-* Images
+# From Portland to Portland
+> web_project_3
 
-**Intro**
+"From Portland to Portland" (web_project_3) is my second project at Practicum by Yandex. I've done it during the "Adaptive Web Design and Working with Layouts" course. 
+In this course, I worked with design specs and turned them into websites. I also built interfaces using Grid Layout technology while ensuring that my site looks good on all devices, from desktop computers to smartphones.
 
-This is a project about traveling across the US. We've made it so all the elements are displayed correctly on popular screen sizes. We recommend investing more time in completing this project, since it's more difficult than previous ones.
+## Technologies and Techniques
 
-**Figma**
+While developing web_project_3 I used the folowing technologies and techniques:
+* Figma - a vector graphics editor and prototyping tool which is primarily web-based, with additional offline features enabled by desktop applications for macOS and Windows.
+* HTML5, CSS3, markdown
+* BEM — Block Element Modifier, a methodology that helps you to create reusable components and code sharing in front-end development
+* Visual Studio Code, Git 
+* Responsive web design, Semantic markup
 
-* [Link to the project on Figma](https://www.figma.com/file/xM9rNsdK4iNcFJmDZho3Aw/Sprint-3%3A-From-Portland-to-Portland-%2F-desktop-%2B-mobile?node-id=500%3A0)
+## Developing
 
-**Images**
+```shell
+git clone https://github.com/TanyaKomar/web_project_3.git
+cd web_project_3/
+```
 
-The way you'll do this at work is by exporting images directly from Figma — we recommend doing that to practice more. Don't forget to optimize them [here](https://tinypng.com/), so your project loads faster. 
+## Licensing
 
-Good luck and have fun!
+The code in this project is licensed under MIT license.

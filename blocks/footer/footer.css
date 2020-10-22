@@ -4,7 +4,6 @@
 
 .footer {
     max-width: 1184px;
-    height: 18px;
     margin: auto;
     display: flex;
     justify-content: space-between;
@@ -29,7 +28,6 @@
     .footer {
         max-width: 288px;
         flex-direction: column;
-        min-height: 198px;
         padding-top: 64px;
     }   
 }
