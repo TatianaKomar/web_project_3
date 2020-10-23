@@ -2,17 +2,17 @@
     max-width: 620px;
     margin: auto;
     text-align: center;
-    line-height: 36px;
     font-size: 30px;
+    line-height: 1.2;
     font-weight: normal;
     margin-top: 32px;
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 680px) {
     .lead__subtitle {
         max-width: 288px;
         font-size: 16px;
-        line-height: 20px;
+        line-height: 1.25;
         margin-top: 16px;
     }   
 }

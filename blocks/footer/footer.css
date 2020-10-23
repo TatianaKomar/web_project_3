@@ -9,22 +9,18 @@
     justify-content: space-between;
     flex-direction: row;
     padding-top: 92px;
-    padding-bottom: 24px;
+    padding: 92px 48px 24px 48px;
 }
 
-@media screen and (max-width: 1024px) {
-    .footer {
-        max-width: 928px;
-    }   
-}
+
 
 @media screen and (max-width: 768px) {
     .footer {
-        max-width: 720px;
+        padding: 90px 24px 24px 24px;
     }   
 }
 
-@media screen and (max-width: 320px) {
+@media screen and (max-width: 450px) {
     .footer {
         max-width: 288px;
         flex-direction: column;

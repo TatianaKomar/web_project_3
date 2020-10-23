@@ -4,7 +4,7 @@
 > web_project_3
 
 "From Portland to Portland" (web_project_3) is my second project at Practicum by Yandex. I've done it during the "Adaptive Web Design and Working with Layouts" course. 
-In this course, I worked with design specs and turned them into websites. I also built interfaces using Grid Layout technology while ensuring that my site looks good on all devices, from desktop computers to smartphones.
+In this course, I worked with design specs and turned them into website. I also built interfaces using Grid Layout technology while ensuring that my site looks good on all devices, from desktop computers to smartphones.
 
 ## Technologies and Techniques
 

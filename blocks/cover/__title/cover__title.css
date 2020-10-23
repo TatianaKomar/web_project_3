@@ -4,7 +4,7 @@
     position: relative;
     margin: auto;
     font-size: 72px;
-    line-height: 76px;
+    line-height: 1.06;
     font-weight: 900;
     color: #fffdfd;
     text-align: center;
@@ -16,7 +16,7 @@
     .cover__title {
         max-width: 288px;
         font-size: 32px;
-        line-height: 35px;
+        line-height: 1.09;
         margin-bottom: 16px;
     }   
 }
