@@ -15,12 +15,20 @@ While developing web_project_3 I used the folowing technologies and techniques:
 * Visual Studio Code, Git 
 * Responsive web design, Semantic markup
 
+## Link to the project
+
+https://tanyakomar.github.io/web_project_3/index.html
+
 ## Developing
 
-```shell
-git clone https://github.com/TanyaKomar/web_project_3.git
-cd web_project_3/
+ ### How to install the project?
 ```
+git clone https://github.com/TanyaKomar/web_project_3.git
+```
+I use the _main_ branch for development.
+ 
+ ### How to deploy your changes?
+Push your changes to the _gh-pages_ branch. Your changes will be automatically deployed. 
 
 ## Licensing
 
